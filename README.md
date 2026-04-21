@@ -19,8 +19,4 @@ This was developed as a college project to demonstrate the practical application
 * **Image Processing:** NumPy, Pillow
 
 ## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-   cd YOUR-REPO-NAME
+https://face-color-recognition-rihieseb.streamlit.app/
